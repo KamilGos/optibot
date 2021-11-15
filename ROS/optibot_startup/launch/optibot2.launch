@@ -1,0 +1,13 @@
+<launch>
+
+	<node name="serial_node" pkg="rosserial_python" type="serial_node.py">
+		<param name="port" value="/dev/ttyACM0"/>
+	</node>
+
+	<node name="joy_node_bt" pkg="joy" type="joy_node">
+		<param name="dev" value="/dev/input/js0"/>
+	</node>
+	
+	<include file="$(find teleop_twist_joy)/launch/optibot.launch" />
+
+</launch>
