@@ -85,7 +85,7 @@ This is very widly decribed part of this projekt, so it was moved to /results/re
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT.
 
 ## :technologist: Author ##
 
