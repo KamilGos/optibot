@@ -80,7 +80,7 @@ Figure shows the general idea of robot electronic system architecture. It presen
 During the tests of the localization algorithms, the **rosbag** package was also used, which enables the record of the messages that appear in the system. This package makes it possible to recreate the entire course of the experiment at any time without losing any information. The data collected in this way (called rosbag) is also easy to analyse because all the data can be exported to a standard CSV file or directly imported into a Python script. Also, it is important to note, that all the nodes responsible for odometry calculations run in parallel and independent of each other and exposed to the same environment at the same time, which ensure that the results are fair. 
 
 
-<h2 align="left"> Environment, Grand truth, Evaluation, Data Analysis and Results</h1>
+<h2 align="left">Addidtional resources, Environment, Grand truth, Evaluation, Data Analysis and Results</h1>
 This is very widly decribed part of this projekt, so it was moved to /results/results.pdf file. 
 
 ## :memo: License ##
