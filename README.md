@@ -6,7 +6,7 @@
   &#xa0;
 </div>
 
-<h1 align="center"> OptiBot </h1>
+<h1 align="center"> optibot </h1>
 <h2 align="center"> Mobile platform for analysis of localization methods using the Intel RealSense T265 sensor </h2>
 
 
